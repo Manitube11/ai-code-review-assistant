@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Code Review Assistant
 
 <div align="center">
@@ -200,3 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <sub>Made with ❤️ by <a href="https://github.com/ManiTube11">ManiTube</a></sub>
 </div> # My Project
+=======
+# ai-code-review-assistant
+>>>>>>> 6d26ada933c4f809e59f193547fd77db5f4317f7
