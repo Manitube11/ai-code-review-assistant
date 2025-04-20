@@ -29,9 +29,7 @@
 - 📟 **Command-line Interface**: Review files directly from your terminal
 - 🎮 **Mock Mode**: Built-in demo mode that works without an OpenAI API key
 
-## 📸 Screenshots
 
-(Add screenshots of your application here)
 
 ## 🏗️ Architecture
 
